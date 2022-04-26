@@ -1,7 +1,7 @@
 # Cabana Joe's Hospitality Products
 
 ## Purpose
-
+Improve this website!
 ## Built With
 
 - HTML
