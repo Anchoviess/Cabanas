@@ -105,7 +105,7 @@ a:hover {
   transform-origin: center top;
 }
 .hero-section h1 {
-  color: #128891;
+  color: #b8640bfe;
   font-size: 5vw;
   line-height: 3;
   font-weight: 800;
@@ -134,7 +134,7 @@ a:hover {
   font-size: 21px;
   line-height: 20px;
   font-weight: 500;
-  color: #128891;
+  color: #000000;
   letter-spacing: 1px;
 }
 .hero-section p span {
@@ -582,42 +582,4 @@ img.back {
 	
   }
 	
-	&:nth-of-type(3n + 1) {
-	  grid-column: span 2;
-	}
 	
-	 &:nth-of-type(2n) {
-        grid-row: span 2;
-	 }
-  
-  
-	&__image {
-	  background-color: lightblue;
-	  display: block;
-	  height: 100%;
-	  min-height: 200px;
-	  width: 100%;
-	}
-	
-	&__name {
-	  
-	  p {
-		font-family: sans-serif;
-		font-size: 16px;
-		font-weight: bold;
-	 
-		a {
-		  color: #000000;
-		  text-decoration: none;
-		}
-	  }
-	}
-	
-	&__price {
-  
-	  p {
-		font-family: sans-serif;
-		font-size: 14px;
-	  }
-	}
-  }

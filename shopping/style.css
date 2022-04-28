@@ -13,12 +13,20 @@
     box-sizing: border-box;
     font-family: Raleway;
     color: rgb(14, 230, 245);
+    
 }
 
 html, body {
     margin: 0;
     padding: 0;
     min-height: 100%;
+    
+}
+html, body, main {
+    background-image: url("https://wallpapershome.com/images/pages/pic_v/15378.jpg");
+    background-size: cover;
+    
+    
 }
 
 .nav ul {
@@ -84,7 +92,7 @@ html, body {
 .section-header {
     font-family: "Metal Mania";
     font-weight: normal;
-    color: rgb(0, 177, 216);
+    color: rgb(235, 246, 249);
     text-align: center;
     font-size: 2.5em;
 }
@@ -212,7 +220,7 @@ html, body {
     text-align: center;
     font-weight: bold;
     font-size: 1.5em;
-    color: rgb(10, 186, 240);
+    color: rgb(255, 255, 255);
     margin-bottom: 15px;
 }
 
