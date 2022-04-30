@@ -23,9 +23,9 @@ html, body {
     
 }
 html, body, main {
-    background-image: url("https://wallpapershome.com/images/pages/pic_v/15378.jpg");
-    background-size: cover;
     
+    background-size: cover;
+    background-color: rgb(168, 198, 203);
     
 }
 
@@ -226,6 +226,21 @@ html, body, main {
 
 .shop-item-image {
     height: 250px;
+    position: relative;
+    
+}
+.base {
+    width: 250px;
+    height: 250px;
+    position: relative;
+    left: 247px;
+    top: 4px;
+}
+
+.heater {
+    position: relative;
+    left: 96px;
+    top: 4px;
 }
 
 .shop-item-details {
