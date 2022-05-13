@@ -1,0 +1,42 @@
+{
+    "Heaters": [
+      {
+        "id": 1,
+        "name": "Heater",
+        "price": 129999,
+        "imgName": "Heater.png"
+      },
+      {
+        "id": 2,
+        "name": "Umbrella",
+        "price": 14959,
+        "imgName": "cali338.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Cushions",
+        "price": 9999,
+        "imgName": "original.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Cabanas",
+        "price": 91999,
+        "imgName": "cabanas.jpg"
+      }
+    ],
+    "Accessories": [
+      {
+        "id": 5,
+        "name": "110lb.Base",
+        "price": 19999,
+        "imgName": "bases.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Drapery",
+        "price": 896999,
+        "imgName": "drapes.png"
+      }
+    ]
+  }
