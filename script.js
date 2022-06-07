@@ -63,13 +63,6 @@
 		$("body").removeClass("wildlife-on");
 	});
 
-	
-	$(".nature").on('click', function () {
-		$("body").addClass("nature-on");
-	});
-	$(".nature-close").on('click', function () {
-		$("body").removeClass("nature-on");
-	});
 
 
 	$(".forest").on('click', function () {
