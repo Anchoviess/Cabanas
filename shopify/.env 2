@@ -1,0 +1,8 @@
+SHOPIFY_API_KEY=87b9c4dc06080abd87c67e74ddeb2a97
+SHOPIFY_API_SECRET=271c9d3ad7cfb80778b2f04486248d70
+SHOP=cabana-joes-products.myshopify.com
+SCOPES=write_products,write_customers,write_draft_orders
+
+
+
+ 
